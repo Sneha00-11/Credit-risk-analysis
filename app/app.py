@@ -8,7 +8,7 @@ import plotly.graph_objects as go
 # Load model and scaler
 model = joblib.load('models/loan_model.pkl')
 scaler = joblib.load('models/scaler.pkl')
-df = pd.read_csv("Loan Prediction Dataset.csv")
+df = pd.read_csv("dataset/Loan Prediction Dataset.csv")
 
 st.set_page_config(page_title="Credit Risk Analysis System", layout="wide")
 st.title("🏦 Credit Risk Analysis System")
