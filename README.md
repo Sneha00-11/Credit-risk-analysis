@@ -5,6 +5,13 @@ This project predicts whether a loan should be approved or not using machine lea
 It also provides an interactive dashboard to analyze applicant risk factors.
 
 ---
+## Live Demo
+
+Try the deployed Streamlit dashboard:
+
+🔗 https://credit-risk-analysis-is8q6ysqfh4xjwgma3c4xi.streamlit.app/
+
+---
 
 ## Features
 - Loan approval prediction using trained ML model  
