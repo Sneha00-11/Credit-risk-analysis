@@ -1,4 +1,4 @@
-# 🏦 Credit Risk Analysis System
+# Credit Risk Analysis System
 
 ## Overview
 This project predicts whether a loan should be approved or not using machine learning.  
@@ -31,7 +31,7 @@ Try the deployed Streamlit dashboard:
 ---
 
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 pip install -r requirements.txt
