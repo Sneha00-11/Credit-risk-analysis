@@ -1,13 +1,31 @@
-# Credit Risk Analysis System
+# 🏦 Credit Risk Analysis System
 
-This project predicts loan approval using Machine Learning and shows results in a Streamlit dashboard.
+## Overview
+This project predicts whether a loan should be approved or not using machine learning.  
+It also provides an interactive dashboard to analyze applicant risk factors.
+
+---
 
 ## Features
+- Loan approval prediction using trained ML model  
+- Interactive dashboard built with Streamlit  
+- KPI metrics (Income, Loan Amount, Percentile rank)  
+- Data visualizations for insights  
 
-- Loan approval prediction
-- Risk classification
-- Interactive dashboard
+---
 
-## Run the project
+## Tech Stack
+- Python  
+- Streamlit  
+- Pandas, NumPy  
+- Scikit-learn  
+- Matplotlib, Seaborn, Plotly  
 
+---
+
+
+## ▶️ How to Run
+
+```bash
+pip install -r requirements.txt
 streamlit run app/app.py
